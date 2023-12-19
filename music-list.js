@@ -59,11 +59,11 @@ let allMusic = [
     //     img: "music-10",
     //     src: "music-10"
     // },
-    // {
-    //     name:"Kal Ho Na Ho",
-    //     artist: "Arijit Singh",
-    //     img: "music-10",
-    //     src: "music-11"
+    {
+        name:"Kal Ho Na Ho",
+        artist: "Arijit Singh",
+        img: "music-6",
+        src: "music-11"
 
-    // }
+    }
 ];
