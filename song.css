@@ -6,6 +6,11 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+*::selection{
+    color: white;
+    background-color: black;
+}
+
 
 *::before, *::after{
     padding: 0;
@@ -13,13 +18,14 @@
 }
 
 :root{
-    --whitetype: #ff7480;
-    --blacktype: #9f6ea3;
-    --lightblack: #515C6F;
+    --whitetype: #99ff74f4;
+    --blacktype: #100d10;
+    --lightblack: #a6ed44;
     --white: #ffffff;
     --darkwhite: #cecaca;
     --pinkshadow: #ffcbdd;
     --lightbshadow: rgba(0, 0, 0, 0.364);
+    --pink:#dc57d6;;
 }
 
 
@@ -36,7 +42,8 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: linear-gradient(45deg, rgb(218, 15, 18), rgb(203, 203, 216));
+    background:linear-gradient(180deg,rgb(39, 214, 226),green);
+   
 }
 
 .wrapper{
@@ -45,7 +52,7 @@ body{
     overflow: hidden;
     position: relative;
     border-radius: 15px;
-    background: var(--white);
+    background: linear-gradient(45deg, rgb(113, 229, 31), rgb(41, 41, 231));
     box-shadow: 0px 6px 15px var(--lightbshadow);
 }
 
@@ -230,7 +237,7 @@ input[type="range"]::-webkit-slider-thumb {
 .controls i{
     font-size: 28px;
     user-select: none;
-    background: linear-gradient(var(--whitetype) 0%, var(--blacktype) 100%);  
+    background: black;  
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

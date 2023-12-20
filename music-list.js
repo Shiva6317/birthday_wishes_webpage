@@ -5,12 +5,12 @@ let allMusic = [
     //     img: "music-4",
     //     src: "music-1"
     // },
-    // {
-    //     name: "Calm-Down",
-    //     artist: "Rema, Selena Gomez",
-    //     img: "music-4",
-    //     src: "music-2"
-    // },
+    {
+        name: "Calm-Down",
+        artist: "Rema, Selena Gomez",
+        img: "music-4",
+        src: "music-2"
+    },
     // {
     //     name: "Let Me Down Slowly",
     //     artist: "Alec Benjamin",
@@ -59,11 +59,11 @@ let allMusic = [
     //     img: "music-6",
     //     src: "music-10"
     // },
-    {
-        name:"Kal Ho Na Ho",
-        artist: "Arijit Singh",
-        img: "music-6",
-        src: "music-11"
+    // {
+    //     name:"Kal Ho Na Ho",
+    //     artist: "Arijit Singh",
+    //     img: "music-6",
+    //     src: "music-11"
 
-    }
+    // }
 ];
