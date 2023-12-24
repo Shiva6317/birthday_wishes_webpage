@@ -5,12 +5,12 @@ let allMusic = [
     //     img: "music-4",
     //     src: "music-1"
     // },
-    {
-        name: "Calm-Down",
-        artist: "Rema, Selena Gomez",
-        img: "music-4",
-        src: "music-2"
-    },
+    // {
+    //     name: "Calm-Down",
+    //     artist: "Rema, Selena Gomez",
+    //     img: "music-4",
+    //     src: "music-2"
+    // },
     // {
     //     name: "Let Me Down Slowly",
     //     artist: "Alec Benjamin",
@@ -65,5 +65,12 @@ let allMusic = [
     //     img: "music-6",
     //     src: "music-11"
 
-    // }
+    // },
+    {
+        name:"samay samjhayega",
+        artist: "Gendria",
+        img: "music-6",
+        src: "music-12"
+
+    }
 ];
