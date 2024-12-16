@@ -17,12 +17,12 @@ let allMusic = [
     //     img: "music-4",
     //     src: "music-3"
     // },
-    {
-        name: "Love Me Like You Do",
-        artist: "Ellie Goulding",
-        img: "music-4",
-        src: "music-4"
-    },
+    // {
+    //     name: "Love Me Like You Do",
+    //     artist: "Ellie Goulding",
+    //     img: "music-4",
+    //     src: "music-4"
+    // },
     // {
     //     name: "Starboy",
     //     artist: "The Weeknd",
@@ -59,18 +59,25 @@ let allMusic = [
     //     img: "music-6",
     //     src: "music-10"
     // },
-    // {
-    //     name:"Kal Ho Na Ho",
-    //     artist: "Arijit Singh",
-    //     img: "music-6",
-    //     src: "music-11"
+    {
+        name:"Kal Ho Na Ho",
+        artist: "Arijit Singh",
+        img: "music-6",
+        src: "music-11"
 
-    // },
+    },
     {
         name:"samay samjhayega",
         artist: "Gendria",
         img: "music-6",
         src: "music-12"
+
+    },
+    {
+        name:"Sajni re",
+        artist: "Arijit singh",
+        img: "music-9",
+        src: "music-13"
 
     }
 ];
